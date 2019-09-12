@@ -45,6 +45,8 @@ from his personal OR work.
 - Under *do the following…, select the action you’d like to occur when a match is found. You can have Office forward the emails to you to monitor the activity. Check the audit box if you’d like Office to track the rule activity too.
 - Hit save
 
+![Friendly From Spoofing](https://github.com/duocircle/Office365-Phishing-Rules/blob/master/assets/img/block-office-365-email-spoofing-friendly-name.jpg)
+
 
 
 Credit - https://www.itjon.com/blocking-those-obnoxious-phishing-emails-with-spoofed-friendly-display-name-on-office-365/
