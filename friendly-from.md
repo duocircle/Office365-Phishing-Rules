@@ -6,8 +6,8 @@ signature from some email address not on your domain. Let’s block those!
 
 Our CEO for this example will be Bruce Wayne and your users are getting emails like this:
 
-=======================================
 
+```
 From: Bruce Wayne <theceo125451@aol.com>
 To:  Alfred Pennyworth <alfred@wayneenterprises.com>
 Subject: Urgent!
@@ -20,7 +20,8 @@ Bruce Wayne
 CEO
 Wayne Enterprises
 
-=======================================
+```
+
 
 Looks legit enough to pass by spam filters, which have no way of knowing if “theceo125451@aol.com” is Bruce Wayne’s personal email or not. 
 And if you block that address, the spammers will just send from another one.
