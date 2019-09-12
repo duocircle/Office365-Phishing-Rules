@@ -20,6 +20,8 @@ Steps to Configure Attachment Security in Office365
 <span style=font-size:12.0pt;color:black;><b>[EXTERNAL EMAIL]</span></b>
 <span style=font-size:10.0pt;color:black> DO NOT CLICK links or attachments unless you recognize the sender and know the content is safe.</span></p>```
 
+![External Email Banner Example](https://github.com/duocircle/Office365-Phishing-Rules/blob/master/assets/img/external-message-banner.png)
+
 13. After entering the Text, you’ll need to specify the fall back action. (by clicking “*Select one…”). Choose Wrap, then “OK”.
 14. Scroll down and set the Priority level according to any other rules you have configured. If this is the only rule, you can set this to “0”.
 15. Click Save

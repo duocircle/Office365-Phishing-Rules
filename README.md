@@ -6,7 +6,7 @@ These rules are accurate at the time of posting but Microsoft is constantly upda
 
 [Block Spoofed Friendly / Display Name on Office 365](https://github.com/duocircle/Office365-Phishing-Rules/blob/master/friendly-from.md)
 
-Add Header For Message From Outside Your Domain
+[External Message Banner](https://github.com/duocircle/Office365-Phishing-Rules/blob/master/external-message-banner.md)
 
 ## From Microsoft
 
