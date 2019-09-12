@@ -5,9 +5,11 @@ These are some example transport rules that can be implemented without using ATP
 These rules are accurate at the time of posting but Microsoft is constantly updating their interface and some steps may be different. 
 
 [Block Spoofed Friendly / Display Name on Office 365](https://github.com/duocircle/Office365-Phishing-Rules/blob/master/friendly-from.md)
+
 [External Message Banner](https://github.com/duocircle/Office365-Phishing-Rules/blob/master/external-message-banner.md)
 
 ## From Microsoft
 
 [Mail flow rules (transport rules) in Exchange Online](https://docs.microsoft.com/en-us/exchange/security-and-compliance/mail-flow-rules/mail-flow-rules)
+
 [Mail flow rule conditions and exceptions (predicates) in Exchange Online](https://docs.microsoft.com/en-us/exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions)
