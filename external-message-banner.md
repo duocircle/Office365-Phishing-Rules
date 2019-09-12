@@ -16,9 +16,11 @@ Steps to Configure Attachment Security in Office365
 11. Select *Enter text…
 12. Enter the message you want to prepend to inbound external emails. We recommend keeping it short. If you make it too long, you will get complaints because the users cannot see the preview. Feel free to copy and paste the HTML below for a formatted message like this:
 
-```<p style="border:1px; border-style:solid; border-color: #FFCACA; background-color: #FFCACA; padding: 1em;">
+```
+<p style="border:1px; border-style:solid; border-color: #FFCACA; background-color: #FFCACA; padding: 1em;">
 <span style=font-size:12.0pt;color:black;><b>[EXTERNAL EMAIL]</span></b>
-<span style=font-size:10.0pt;color:black> DO NOT CLICK links or attachments unless you recognize the sender and know the content is safe.</span></p>```
+<span style=font-size:10.0pt;color:black> DO NOT CLICK links or attachments unless you recognize the sender and know the content is safe.</span></p> 
+```
 
 ![External Email Banner Example](https://github.com/duocircle/Office365-Phishing-Rules/blob/master/assets/img/external-message-banner.png)
 
