@@ -2,13 +2,27 @@
 
 These are some example transport rules that can be implemented without using ATP to block some common types of Phishing on Office 365.
 
+ATP is an excellent option if you have an E5 license and above. If not, please feel free to browse these rules and adapt them for your environment. 
+
+Your environment should have at least one of the rules from each of the sections to help protect against Office 365 phishing. 
+
 These rules are accurate at the time of posting but Microsoft is constantly updating their interface and some steps may be different. 
 
-[Block Spoofed Friendly / Display Name on Office 365](/friendly-from/README.md)
+## Sender Spoofing
+
+[Friendly FROM: Address](/friendly-from/README.md)
+
+## Display Banners
 
 [External Message Banner](/external-sender/README.md)
 
-## From Microsoft
+## Domain Spoofing
+
+
+## DKIM / DMARC
+
+
+## Microsoft OFFICIAL
 
 [Mail flow rules (transport rules) in Exchange Online](https://docs.microsoft.com/en-us/exchange/security-and-compliance/mail-flow-rules/mail-flow-rules)
 
