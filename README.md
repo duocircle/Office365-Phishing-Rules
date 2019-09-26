@@ -1,6 +1,6 @@
 # Office365 Phishing Transport Rules
 
-These are some example transport rules that can be implemented without using ATP to block some common types of Phishing on Office 365.
+Example transport rules that can be implemented without using ATP to block some common types of Phishing on Office 365.
 
 **ATP is an excellent option if you have an E5 license and above.** If not, please feel free to browse these rules and adapt them for your environment. 
 
