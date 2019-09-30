@@ -19,8 +19,8 @@ Your environment should have at least one of the rules from each of the sections
 
 ## Security Controls
 
-[Enabling 2FA in Office 365](/security/office365-enable-2fa.md)
-[Enabling FIDO2 in Office 365](/security/office365-enable-FIDO2.md)
+- [Enabling 2FA in Office 365](/security/office365-enable-2fa.md)
+- [Enabling FIDO2 in Office 365](/security/office365-enable-FIDO2.md)
 
 ## Domain Spoofing
 
@@ -30,6 +30,6 @@ Your environment should have at least one of the rules from each of the sections
 
 ## Microsoft OFFICIAL
 
-[Mail flow rules (transport rules) in Exchange Online](https://docs.microsoft.com/en-us/exchange/security-and-compliance/mail-flow-rules/mail-flow-rules)
+- [Mail flow rules (transport rules) in Exchange Online](https://docs.microsoft.com/en-us/exchange/security-and-compliance/mail-flow-rules/mail-flow-rules)
 
-[Mail flow rule conditions and exceptions (predicates) in Exchange Online](https://docs.microsoft.com/en-us/exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions)
+- [Mail flow rule conditions and exceptions (predicates) in Exchange Online](https://docs.microsoft.com/en-us/exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions)
