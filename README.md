@@ -8,6 +8,7 @@ Your environment should have at least one of the rules from each of the sections
 
 *These rules are accurate at the time of posting but Microsoft is constantly updating their interface and some steps may be different.*
 
+
 ## Sender Spoofing
 
 [Friendly FROM: Address](/friendly-from/README.md)
@@ -15,6 +16,11 @@ Your environment should have at least one of the rules from each of the sections
 ## Display Banners
 
 [External Message Banner](/external-sender/README.md)
+
+## Security Controls
+
+[Enabling 2FA in Office 365](/security/office365-enable-2fa.md)
+[Enabling FIDO2 in Office 365](/security/office365-enable-FIDO2.md)
 
 ## Domain Spoofing
 
