@@ -27,3 +27,7 @@ Your environment should have at least one of the rules from each of the sections
 [Mail flow rules (transport rules) in Exchange Online](https://docs.microsoft.com/en-us/exchange/security-and-compliance/mail-flow-rules/mail-flow-rules)
 
 [Mail flow rule conditions and exceptions (predicates) in Exchange Online](https://docs.microsoft.com/en-us/exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions)
+
+## Third Party Rules
+
+[Blocking email spam with the Office 365 spam filter (for administrators)](https://www.clouddirect.net/knowledge-base/KB0011008/blocking-email-spam-with-the-office-365-spam-filter-for-administrators)
