@@ -37,3 +37,11 @@ Your environment should have at least one of the rules from each of the sections
 ## Third Party Rules
 
 [Blocking email spam with the Office 365 spam filter (for administrators)](https://www.clouddirect.net/knowledge-base/KB0011008/blocking-email-spam-with-the-office-365-spam-filter-for-administrators)
+
+
+## Outlook 365 Dark Mode
+
+Dark mode (black background rather than a white reading pane) makes it easy to spot fake attachments, and hidden text links. 
+You would be amazed at the amount deception that can be uncovered in the dark. 
+
+[Enable dark mode in Outlook](https://support.office.com/en-us/article/dark-mode-in-outlook-3e2446e0-9a7b-4189-9af9-57fb94d02ae3)
