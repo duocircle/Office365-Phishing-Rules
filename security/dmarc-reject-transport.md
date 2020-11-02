@@ -4,7 +4,7 @@ By default Office 365 DMARC validation for internet emails that fails for policy
 
 For a successful email from a legitimate sender where it has passed spf, dkim & dmarc we see the below value for DMARC.
 
-*dmarc=pass action=none*
+`dmarc=pass action=none`
 
 ### WorkAround:
 
