@@ -38,6 +38,13 @@ Your environment should have at least one of the rules from each of the sections
 
 [Mail flow rule conditions and exceptions (predicates) in Exchange Online](https://docs.microsoft.com/en-us/exchange/security-and-compliance/mail-flow-rules/conditions-and-exceptions)
 
+## Setup Message Reporting
+
+[Enable the report Message Add-in](https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/enable-the-report-message-add-in?view=o365-worldwide)
+
+[See what your users are reporting using a transport rule](https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/use-mail-flow-rules-to-see-what-your-users-are-reporting-to-microsoft?view=o365-worldwide)
+
+
 ## Third Party Rules
 
 [Blocking email spam with the Office 365 spam filter (for administrators)](https://www.clouddirect.net/knowledge-base/KB0011008/blocking-email-spam-with-the-office-365-spam-filter-for-administrators)
