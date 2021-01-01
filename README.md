@@ -8,7 +8,7 @@ Your environment should have at least one of the rules from each of the sections
 
 *These rules are accurate at the time of posting but Microsoft is constantly updating their interface and some steps may be different.*
 
-## Comprehensive Guide for Securing and Configuring Office 365
+## Exchange Online Protection (EOP) Best Practices and Recommendations
 [Undocumented Features 365 Guide](https://www.undocumented-features.com/2019/08/13/exchange-online-protection-eop-best-practices-and-recommendations)
 
 
